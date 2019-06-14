@@ -32,7 +32,8 @@ Replace your hand crafted mocks and stubs with a mocking framework.
 
 #### How to Start
 
-- Clone repository: **https://github.com/tws-graduate-bootcamp/unit-test-mock-basic**
+- You can fork the following github repository as starting point
+Please submit your own github repository address in the answer field.
 
 
 #### How to Test
