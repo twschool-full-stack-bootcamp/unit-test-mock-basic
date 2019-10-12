@@ -4,13 +4,13 @@
 
 Exercise Test 1
 ----------
-Due to a cash register implementation.
-Begin by writing a test that asserts the cash register prints something to the printer.
+Due to a Pos-machine implementation.
+Begin by writing a test that asserts exception when the pos-machine gets receipt by price-calculator.
 Do not use a mocking framework like [mockito](https://site.mockito.org/).
 
 Exercise Test 2
 ----------
-Assert that the printer prints exactly a test string you provide in the test.
+Assert that the pos-machine can get receipt exactly using stub price-calculator.
 
 Exercise Test 3
 ----------
